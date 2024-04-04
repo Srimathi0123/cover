@@ -41,11 +41,12 @@ Publish the website in the LocalHost.
         <style>
 img{
     height: 60%;
-    width:20%;
+    width:25%;
     /* position: absolute;
     left:63%;
     top:64%; */
     float: right;
+    /* opacity: 70%; */
 
 }
 h1{
@@ -114,7 +115,7 @@ hr{
         <p>
             Extended Edition            
         </p>    
-        <img src="srimathi photo.jpeg">
+        <img src="imgsri.jpg">
     </div>
     <hr>
     <div class="details">
@@ -125,11 +126,15 @@ hr{
 </body>
 </html>
 
+
 ```
 
 
 ## OUTPUT:
-![image](https://github.com/Srimathi0123/cover/assets/118673240/ab9514db-bb60-4875-8d7f-8b77bd9b0b01)
+![image](https://github.com/Srimathi0123/cover/assets/118673240/65a684db-8b8d-4879-ac77-b614f6795d84)
+
+
+
 
 
 
