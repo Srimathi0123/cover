@@ -1,5 +1,5 @@
 # Ex.06 Book Front Cover Page Design
-## Date:
+## Date:06/04/2024
 
 ## AIM:
 To design a book front cover page using HTML and CSS.
@@ -31,9 +31,106 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
+## page.html
+```
+<html>
+    <head>
+        <title>
+            HTML page
+        </title>
+        <style>
+img{
+    height: 60%;
+    width:20%;
+    /* position: absolute;
+    left:63%;
+    top:64%; */
+    float: right;
+
+}
+h1{
+    font-size: 400%;
+}
+p{font-size: 200%;
+
+}       
+.container{
+    color: rgb(15, 15, 16);
+    position: absolute;
+    top: 10%;
+    left: 30%;
+    padding: 25px;
+    background-image: url(./bgimg1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: white;
+ 
+    height: 90%;
+    width: 35%;
+    background-color: aqua;
+}
+/* *{
+    background-color: rgb(167, 58, 58);
+} */
+hr{
+    color: orange;
+}
+.center
+{
+    height: 35%;
+    align-items: flex-end;
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+}
+.details
+{
+    height: 10%;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+}
+#hr1
+{
+    width: 20%;
+    margin-left: 0.2%;
+    color: blue;
+}
+
+
+        </style>
+    </head>
+<body>
+<div class="container">
+    <h2> SEC INSIGHT</h2>
+    <hr id="hr1">
+    <h1>THE BEAUTIFUL DANCE OF FIREFLIES
+    </h1>
+    <p>tells a captivating story about love and light, where each flicker uncovers hidden secrets. 
+        Join a magical journey guided by these tiny creatures, where wonder and mystery come together under the night sky.
+    </p>
+    <div class ="center">
+        <p>
+            Extended Edition            
+        </p>    
+        <img src="srimathi photo.jpeg">
+    </div>
+    <hr>
+    <div class="details">
+        <p>SRIMATHI V</p>
+        <p>SEC</p>
+    </div>    
+</div>    
+</body>
+</html>
+
+```
 
 
 ## OUTPUT:
+![image](https://github.com/Srimathi0123/cover/assets/118673240/ab9514db-bb60-4875-8d7f-8b77bd9b0b01)
+
 
 
 ## RESULT:
