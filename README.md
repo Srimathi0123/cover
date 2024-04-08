@@ -1,5 +1,5 @@
 # Ex.06 Book Front Cover Page Design
-## Date:06/04/2024
+## Date:08/04/2024
 
 ## AIM:
 To design a book front cover page using HTML and CSS.
@@ -106,14 +106,13 @@ hr{
 <div class="container">
     <h2> SEC INSIGHT</h2>
     <hr id="hr1">
-    <h1>THE BEAUTIFUL DANCE OF FIREFLIES
+    <h1>Learn JavaScript VISUALLY With Interactive Exercises
     </h1>
-    <p>tells a captivating story about love and light, where each flicker uncovers hidden secrets. 
-        Join a magical journey guided by these tiny creatures, where wonder and mystery come together under the night sky.
+    <p>It covers how to read and understand JavaScript, the JavaScript syntax, the basics of object-oriented programming, and the essential programming concepts in JavaScript.
     </p>
     <div class ="center">
         <p>
-            Extended Edition            
+            Third Edition            
         </p>    
         <img src="imgsri.jpg">
     </div>
@@ -131,7 +130,8 @@ hr{
 
 
 ## OUTPUT:
-![image](https://github.com/Srimathi0123/cover/assets/118673240/65a684db-8b8d-4879-ac77-b614f6795d84)
+![image](https://github.com/Srimathi0123/cover/assets/118673240/b916d056-0a19-4a53-a9a7-c2c7e16b7bc2)
+
 
 
 
